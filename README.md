@@ -2,6 +2,7 @@
 
 
 Rohan Garakurthi
+
 1231 Maiden Choice ln, Arbutus, Baltimore, MD 21229 | (443) 831-7572 | rohangarakurthi2000@gmail.com |https://www.linkedin.com/in/rohangarakurthi/
 
 
