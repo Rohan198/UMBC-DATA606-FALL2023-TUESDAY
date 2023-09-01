@@ -17,6 +17,7 @@ EDUCATION
 
 
 COURSEWORK
+
 Database Management System | Introduction to Machine Learning | Big Data Processing | Introduction to Data science | Data Mining | Software Engineering | Design and Analysis of Algorithms
 
 TECHNICAL SKILLS
