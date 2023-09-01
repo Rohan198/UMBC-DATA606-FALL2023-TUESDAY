@@ -25,18 +25,23 @@ Technical Skills
 PROJECTS
 ●	An Improved Unascertained Approach to Construction Accident Risk Assessment and Analysis
 
--	My task was to use the past dataset of construction accident as an input and with the help of Text Mining, Natural Language Processing Techniques, a table should be created based on the priority of the cause of accident in descending order(The cause of accident that happened majorly). After that I need to analyze the causes using machine learning algorithms like KNN, Naive Bayes, Decision Tree, Support Vector Machine and predict the graphs of every cause using every algorithm mentioned above and based on the precision and accuracy of every algorithm it will be clear that what cause is severe.
+-	My task was to use the past dataset of construction accident as an input and with the help of Text Mining, Natural Language Processing Techniques, a table should be created 
+        based on the priority of the cause of accident in descending order(The cause of accident that happened majorly). After that I need to analyze the causes using machine learning 
+        algorithms like KNN, Naive Bayes, Decision Tree, Support Vector Machine and predict the graphs of every cause using every algorithm mentioned above and based on the precision 
+        and accuracy of every algorithm it will be clear that what cause is severe.
 
 -	So the main application of my project is by analyzing the graphs, the future construction accidents can be avoided to maximum level.
 
 ●	Pose Estimation using Tensorflow
 
--	My task was to predict a 2-Dimensional pose of a human doing any action like dancing, working out etc. So I used the Convolutional Neural Network algorithm and gave an input image and a video to predict the pose, it was successful and after that I tried to implement 3-D pose too but it didn't work on my laptop.
+-	My task was to predict a 2-Dimensional pose of a human doing any action like dancing, working out etc. So I used the Convolutional Neural Network algorithm and gave an input 
+        image and a video to predict the pose, it was successful and after that I tried to implement 3-D pose too but it didn't work on my laptop.
 -	The main application of my project is that the 2-D pose and the 3-D pose is used for training robots.
 
 ●	Employee Attrition Prediction in Machine Learning
 
--	Predicting Employee Attrition rate like Name, Salary, Age , workplace. My role was to predict the accuracy of the attrition rate and I got an accuracy of 88%. That was the main part which requires algorithms like logistic regression.
+-	Predicting Employee Attrition rate like Name, Salary, Age , workplace. My role was to predict the accuracy of the attrition rate and I got an accuracy of 88%. That was the main 
+        part which requires algorithms like logistic regression.
 -	The main application of my project is that it helps in identifying whether the specific person leaves the company or not based on their age, work experience and salary.
 
 ●	US Campaign Finance Analytics
