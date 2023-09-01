@@ -1,6 +1,7 @@
+![my-passport-photo  new](https://github.com/Rohan198/UMBC-DATA606-FALL2023-TUESDAY/assets/85558952/b370800f-4e82-4aad-b8fa-f5e4449f1ab5)
+
 Rohan Garakurthi
-1231 Maiden Choice ln, Arbutus, Baltimore, MD 21229 | (443) 831-7572 | rohangarakurthi2000@gmail.com |https://www.linkedin.com/in/rohangarakurthi/ 
-![picture-min](https://github.com/Rohan198/UMBC-DATA606-FALL2023-TUESDAY/assets/85558952/772fadd0-4d76-4e8e-a4d2-5e5aa81ccd05)
+1231 Maiden Choice ln, Arbutus, Baltimore, MD 21229 | (443) 831-7572 | rohangarakurthi2000@gmail.com |https://www.linkedin.com/in/rohangarakurthi/
 
 
 
