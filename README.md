@@ -1,13 +1,13 @@
 ![my-passport-photo  new123](https://github.com/Rohan198/UMBC-DATA606-FALL2023-TUESDAY/assets/85558952/77eedd4f-a33f-45d7-9eda-89cc4fbc5ae0)
 
 
-Rohan Garakurthi
+ROHAN GARAKURTHI
 
 1231 Maiden Choice ln, Arbutus, Baltimore, MD 21229 | (443) 831-7572 | rohangarakurthi2000@gmail.com |https://www.linkedin.com/in/rohangarakurthi/
 
 
 
-Education	
+EDUCATION	
 
 ●	University of Maryland, Baltimore County, Baltimore, MD | 3.85/4.0 GPA |Jan 2022— Present
 	Master of Science, Data Science	
@@ -16,12 +16,10 @@ Education
 	Bachelor of Technology, Computer Science and Engineering		
 
 
-Coursework
-
+COURSEWORK
 Database Management System | Introduction to Machine Learning | Big Data Processing | Introduction to Data science | Data Mining | Software Engineering | Design and Analysis of Algorithms
 
-
-Technical Skills
+TECHNICAL SKILLS
 
 ●	Programming Languages : C, JAVA, Python, C++
 
